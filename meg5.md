@@ -13,8 +13,8 @@ Plato’s arguments? Discuss. 20
 (b) Rasa
 (c) Deconstruction
 (d) Gender
-5. Write a critical note on “The Death of the Author”. 20
-6. Comment on the significance of the title The Second Sex. 20
+4. Write a critical note on “The Death of the Author”. 20
+5. Comment on the significance of the title The Second Sex. 20
 
 
 
