@@ -17,7 +17,7 @@ Attempt all questions. All questions carry equal marks. 20X5=100
 5.	Discuss the narrative technique in The Bluest Eye. 20 
 
 
-________________________________________________________________________________________________________________________
+X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---
 
 
 1. Discuss the structure of the novel Huckleberry Finn
@@ -39,7 +39,7 @@ The ending of the novel has generated intense, ongoing critical debate regarding
 •	The Ironic Interpretation: Recent scholarship, including that of black novelists like Toni Morrison and David Bradley, has offered a deeply nuanced and historical reading of this structure. They suggest that by showing how the respectable white boy Tom Sawyer stages a massive, self-indulgent drama to "free" a black man who is already legally free, Twain's farcical ending is actually a brilliant, bitter, and prescient satire on the Reconstruction era and the post-Civil War collapse of civil rights for African Americans, whose promised freedom was continuously delayed, compromised, and turn into a farce by the white establishment.
 
 
-________________________________________________________________________________________________________________________
+X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---
 
 
 2. Critically analyse the Poem “Crossing Brooklyn Ferry”
@@ -58,7 +58,7 @@ o	The transition from nature's sunset to the heavy, industrial energy of the cit
 •	The Spiritualization of the Material ("Dumb, Beautiful Ministers"): The poem culminates in a magnificent, ecstatic address to the material world in Section 9, wherein Whitman personifies natural and urban objects as sacred vessels of divine truth. The river, the hills of Brooklyn, the tall masts of Manhattan, and the sea-birds are addressed as "you dumb, beautiful ministers". Whitman asserts that the soul cannot grow in isolation from the physical; instead, it is through our direct, sensory engagement with these commonplace, everyday materials that we achieve spiritual maturation. By declaring: "We use you, and do not cast you aside—we plant you permanently within us," Whitman resolves his transcendentalist inquiry by proving that even the smallest, most mundane physical objects furnish their necessary parts toward the eternal soul.
 
 
-________________________________________________________________________________________________________________________
+X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---
 
 
 3. Bring out the full significance of the title, “When Lilacs Last in the Dooryard Bloomed”
@@ -76,7 +76,7 @@ o	The Hermit Thrush: The shy, solitary bird warbling its "song of the bleeding t
 •	A Medium for National Healing, Reconciliation, and "Retrievements": Written during a historical moment of intense political division and hatred between the North and the South, the poem uses the title’s natural, organic imagery to advocate for national healing. The dooryard is a space of peace and domestic stability, and the lilacs bloom across the entire country, ignoring political boundaries. By presenting death as a natural, cyclical process that is ultimately completed by a "victorious" and "soothing" motherly presence, Whitman seeks to heal the psychological wounds of the war. The title’s focus on the cyclical renewal of spring promises that the nation, though currently draped in black and mourning, will ultimately find "retrievements out of the night" and emerge unified, healthy, and spiritually reborn.
 
 
-________________________________________________________________________________________________________________________
+X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---
 
 
 4. Discuss the theme and concerns in A Clean well-Lighted Place.
@@ -104,7 +104,7 @@ o	From a biographical perspective, the older waiter's pensive, sleepless, and is
 o	Despite these intense personal connections, Hemingway executes the story with a strict, classical artistic objectivity (impassibilite). Relying on his famous "iceberg principle" and the use of the "objective correlative," he completely eliminates authorial commentary, preaching, or moralizing. By presenting only the bare, clinical sequence of motion and fact—the quiet café, the ticking clock, the stark dialogue, and the flat Spanish prayers—Hemingway allows the deeper, tragic emotion of the story to be directly and powerfully evoked within the reader.
 
 
-________________________________________________________________________________________________________________________
+X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---
 
 
 5. Discuss the narrative technique in The Bluest Eye.
@@ -125,5 +125,5 @@ o	The Third-Person Omniscient Narrator: Since a child narrator cannot be in poss
 •	Symbolic Metaphors and Literary Echoes: Morrison enriches her narrative by weaving in powerful folklore motifs and literary references. The central metaphor of Pecola as a "grounded bird" who flails her arms in a futile, grotesque effort to fly directly evokes the traditional African American folktale "All God's Children Had Wings"—highlighting the tragedy of a child who has been grounded for no fault of her own . Additionally, Morrison ironically echoes Henry David Thoreau’s ***Walden*** in the final sections. While Thoreau's transcendentalist non-conformist walks to a "different drummer" in pursuit of self-realization, Pecola's non-conformity tragically traps her in her own private world of lunacy, jerking her head to a distant drummer that only she can hear .
 Ultimately, Morrison's narrative technique in The Bluest Eye successfully exposes how Pecola is made into a communal scapegoat . By shifting between Claudia's tough, resilient first-person voice and the third-person omniscient chronicle, the novel shows that Pecola's destruction is not an isolated incident, but the collective work of a deeply traumatized and color-conscious society.
 
-________________________________________________________________________________________________________________________
+X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---
 
